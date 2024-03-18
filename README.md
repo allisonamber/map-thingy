@@ -1,5 +1,3 @@
-# map-thingy
-New Orleans marker
 {
   "type": "FeatureCollection",
   "features": [
